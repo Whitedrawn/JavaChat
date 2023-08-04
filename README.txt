@@ -1,0 +1,1 @@
+application runs on java 11/coretto
